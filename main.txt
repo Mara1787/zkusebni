@@ -1,4 +1,5 @@
 nejaky obsah
 obsah pridany do master
 patch11
-patch11 podruhe
+patch11 podruhepatch12
+patch12 podruhe
