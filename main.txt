@@ -1,8 +1,8 @@
 nejaky obsah
-<<<<<<< HEAD
+
 neco pridano v brach patch4
 neco pridano po mergi master s patch4
-=======
+
 neco pridano v patch3
 neco dalsiho pridano v patch3
->>>>>>> patch3
+
