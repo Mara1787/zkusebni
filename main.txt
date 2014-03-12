@@ -1,3 +1,4 @@
 nejaky obsah
 neco pridano v patch2
 neco dalsiho pridano v patch2
+neco vlozeno po mergi
