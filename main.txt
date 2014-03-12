@@ -1,2 +1,3 @@
 nejaky obsah
 neco pripsane v branchi patch#01
+neco dalsiho pripsane v branchi patch#01
